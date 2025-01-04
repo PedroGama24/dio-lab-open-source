@@ -12,11 +12,11 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 ```
 docs/
 ├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
+|     └───favicon.ico
+│── css/
+│    └── styles.css
+│── scripts.js
+|
 ├── index.html
 └── README.md
 ```
